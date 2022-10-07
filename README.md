@@ -60,3 +60,6 @@
 
 ## Exp16 outputs
 ![image](https://user-images.githubusercontent.com/114907414/194261279-f4017336-e72e-468f-8f0d-35618f98c755.png)
+
+## Exp17 outputs
+![image](https://user-images.githubusercontent.com/114907414/194513662-f6e898dd-6e83-4e43-8a36-1f35d8954697.png)
