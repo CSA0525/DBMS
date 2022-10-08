@@ -75,17 +75,21 @@
 
 ## exp 21outputs
 ![image](https://user-images.githubusercontent.com/114907414/194518764-9125d797-d24e-4f11-ba7a-3e41887f158a.png)
+![image](https://user-images.githubusercontent.com/114907414/194684507-ba663e40-b979-463a-9f25-3f9e9e3a0e6d.png)
+![image](https://user-images.githubusercontent.com/114907414/194684509-758ab67e-6c50-411b-8b02-8df31c73511c.png)
 
 ## exp 22outputs
 ![image](https://user-images.githubusercontent.com/114907414/194518917-30648946-9d98-485c-a750-3050e2559e59.png)
+![image](https://user-images.githubusercontent.com/114907414/194684484-a92c6981-a624-45bd-a050-b396d1bf9c4d.png)
 
 ## exp 23outputs
 ![image](https://user-images.githubusercontent.com/114907414/194519041-a122d42b-27d0-449e-a349-03e46826014b.png)
+![image](https://user-images.githubusercontent.com/114907414/194684475-bea90ffb-4605-4777-8cc8-59f16a8f8ef7.png)
 
 ## exp 24outputs
 ![image](https://user-images.githubusercontent.com/114907414/194519178-698e4d61-f449-4a07-82c9-bde66bcca9c4.png)
-
+![image](https://user-images.githubusercontent.com/114907414/194684457-d30f250c-a272-4647-8be6-72bd517d1771.png)
 
 ## exp 25outputs
 ![image](https://user-images.githubusercontent.com/114907414/194519323-4527e6e2-5612-4eb3-bd69-dc5ddff6e376.png)
-
+![image](https://user-images.githubusercontent.com/114907414/194684442-59c0c20a-c29d-44b8-b559-a2e95a7716bd.png)
